@@ -3,7 +3,8 @@ import { nav, sidebar } from './relaConf';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Gongyuan'park",
+  base: '/gongyuanpark/',
+  title: "gongyuan-park",
   description: "A VitePress Site",
   themeConfig: {
     logo: 'avatar.jpg', // 表示docs/public/avatar.jpg
