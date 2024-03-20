@@ -3,12 +3,12 @@
 layout: home
 
 hero:
-  name: "宫垣的公园"
+  name: "Park"
   text: "Stay foolish, Stay hungry."
-  tagline: 计划/想象/自由
-  image:
-    src: /avatar.jpg
-    alt: avatar
+  tagline: 计划/实践/自由
+  # image:
+  #   src: /avatar.jpg
+  #   alt: avatar
   actions:
     - theme: brand
       text: 进入主页
@@ -19,8 +19,8 @@ hero:
 
 features:
   - icon: 👨🏻‍💻
-    title: web前端
-    details: 小厂程序猿，忙着搬砖。
+    title: Feature A
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     link: /views/aboutMe/introduce
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
