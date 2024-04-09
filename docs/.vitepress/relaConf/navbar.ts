@@ -33,9 +33,6 @@ export const nav: DefaultTheme.NavItem[] = [
       },
       {
         text: 'Software', link: '/views/supercomputing/software/'
-      },
-      {
-        text: '数据结构与算法', link: '/views/mathematics/algorithm/'
       }
     ]
   },
