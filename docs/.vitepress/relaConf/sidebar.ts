@@ -35,7 +35,19 @@ export const sidebar: DefaultTheme.Sidebar = {
 
   ],
   '/views/supercomputing/software': [
-
+    {
+      text: '《软件设计师教程》',
+      items: [
+        {
+          text: '01_计算机系统知识',
+          link: '/views/supercomputing/software/01_计算机系统知识'
+        },
+        {
+          text: '02_程序设计语言基础知识',
+          link: '/views/supercomputing/software/02_程序设计语言基础知识'
+        }
+      ]
+    }
   ],
   // 板凳扁担
   '/views/banchPole/vue': [
